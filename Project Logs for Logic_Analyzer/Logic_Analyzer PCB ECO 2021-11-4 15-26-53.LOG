@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Added Member To Class: ClassName=Logic_Analyzer Member=Component R10 100K
+Added Member To Class: ClassName=Logic_Analyzer Member=Component R11 150
+Added Member To Class: ClassName=Logic_Analyzer Member=Component R13 100K
