@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetJ2_5 Pin=R12-5
+Removed Pin From Net: NetName=NetJ2_4 Pin=R12-6
+Removed Pin From Net: NetName=NetJ2_3 Pin=R12-7
+Removed Pin From Net: NetName=NetJ2_2 Pin=R12-8
+Added Pin To Net: NetName=NetJ2_2 Pin=R12-5
+Added Pin To Net: NetName=NetJ2_3 Pin=R12-6
+Added Pin To Net: NetName=NetJ2_4 Pin=R12-7
+Added Pin To Net: NetName=NetJ2_5 Pin=R12-8
+Added Member To Class: ClassName=Logic_Analyzer Member=Component R10 100K
+Added Member To Class: ClassName=Logic_Analyzer Member=Component R13 100K
